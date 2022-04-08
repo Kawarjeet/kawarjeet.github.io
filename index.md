@@ -1,6 +1,6 @@
 ## HI, I'M KAWARJEET
 
-I am a second-year computer engineering Master's student at [New York University](https://www.nyu.edu) where I am taking courses that  
+I am a second-year computer engineering Master's student at [New York University](https://www.nyu.edu). My academic interests lie in the intersection between artificial intelligence and Image Processing, also known as Computer Vision.   where I am taking courses that  
 You can use the [editor on GitHub](https://github.com/Kawarjeet/kawarjeet.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
